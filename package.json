@@ -1,18 +1,34 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@zibuthe7j11/officiis-veritatis-quidem",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "zibuthe7j",
   "license": "MIT",
+  "keywords": [
+    "argv",
+    "robust",
+    "eventDispatcher",
+    "phone",
+    "ES2018",
+    "structuredClone",
+    "jsdiff",
+    "loading",
+    "WeakMap",
+    "es"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/zibuthe7j11/officiis-veritatis-quidem.git"
   },
+  "homepage": "https://github.com/zibuthe7j11/officiis-veritatis-quidem/#readme",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j11/officiis-veritatis-quidem/issues"
+  },
+  "packageManager": "yarn@4.1.1",
   "dependencies": {
-    
+    "@landmineaknpm/aliquid-minus-voluptatem": "^1.0.0",
+    "@ptkhanh94npm/ab-quaerat-animi": "^1.0.0",
+    "@rabiepenpm/libero-nisi-voluptatem": "^1.0.0"
   }
 }
